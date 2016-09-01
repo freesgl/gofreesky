@@ -2,4 +2,4 @@
 
 如果是这样，那就给自己的心灵寻一处宁静所在吧。或徜徉于山间水旁，或静坐于暮霭晨曦，或者就在此时的书桌前夜灯下，去除一切雕饰与矫情，逆时光之河流而上，在心灵的宁静处，找回生命最初的模样。</font>
 ##请访问--》<a href="http://freesky.olife.org/" target="_blank"> 自由天空</a>，也许你会发现一片新的天地...
-![intro](https://cloud.githubusercontent.com/assets/6301435/18159104/b46b5600-7059-11e6-8d82-481c37c88fa4.jpg)
+<a href="http://freesky.olife.org/" target="_blank">![intro](https://cloud.githubusercontent.com/assets/6301435/18159104/b46b5600-7059-11e6-8d82-481c37c88fa4.jpg)</a>
