@@ -1,5 +1,5 @@
 <font color="#993300"> ......也许，一如这水，我们的生命也曾那样决然的离别了曾经的一切宁静与美好，在红尘辗转中越走离来时方向越远，在物欲的追逐中渐渐失去了最初的圣洁与美好；也因此忘记了自己曾经许下的诺言，忘记了曾经想要在世间走过怎样的一种人生。
 
 如果是这样，那就给自己的心灵寻一处宁静所在吧。或徜徉于山间水旁，或静坐于暮霭晨曦，或者就在此时的书桌前夜灯下，去除一切雕饰与矫情，逆时光之河流而上，在心灵的宁静处，找回生命最初的模样。</font>
-##请访问--》<a href="http://freesky.olife.org/" target="_blank"> 自由天空</a>，也许你会发现一片新的天地...
-<a href="http://freesky.olife.org/" target="_blank">![intro](https://cloud.githubusercontent.com/assets/6301435/18159104/b46b5600-7059-11e6-8d82-481c37c88fa4.jpg)</a>
+##请访问--》<a href="http://skyfree.olife.org/" target="_blank"> 自由天空</a>，也许你会发现一片新的天地...
+<a href="http://skyfree.olife.org/" target="_blank">![intro](https://cloud.githubusercontent.com/assets/6301435/18159104/b46b5600-7059-11e6-8d82-481c37c88fa4.jpg)</a>
